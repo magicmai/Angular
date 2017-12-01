@@ -1,4 +1,4 @@
-# AngularTourOfHeroesHTTP
+# AngularTourOfHeroesHttp
 
 angular官网-教程7-HTTP服务：https://angular.cn/tutorial/toh-pt6
 
