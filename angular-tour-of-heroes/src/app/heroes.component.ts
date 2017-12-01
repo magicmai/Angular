@@ -31,5 +31,5 @@ export class HeroesComponent implements OnInit {
 
     gotoDetail(): void {
         this.router.navigate(['/detail', this.selectedHero.id]);
-}
+}    
 }
